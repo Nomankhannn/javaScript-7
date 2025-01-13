@@ -1,0 +1,94 @@
+body{
+    margin: 0px auto;    
+}
+
+.bodycontainer{
+    background-color:#97afde;
+    width: 100%;
+    height: 688px;
+    display: flex;
+}
+.box1{
+    background-color:#0b2a68;
+    text-align: center;
+    align-items: center;
+    width: 500px;
+    padding: 20px;
+
+}
+.box1 img{
+    height: 100px;
+}
+.box1 P{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 20px;
+    color: white;
+}
+.box1 input{
+    color: white;
+    padding: 0px 0px 0px 10px;
+    background-color: #183571;
+    height: 30px;
+    width: 250px;
+    box-shadow: 0px 0px 3px #183571;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+.box1 a1{
+    color: white;
+    text-decoration: none;
+    margin-left: 150px;
+    line-height: 20px;
+    font-size: 15px;
+}
+.box1 a1:hover{
+    color: grey;
+}
+.box1 button{
+    background-color: rgb(39, 90, 218);
+    width: 250px;
+    height: 35px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #0b2a68 ;
+}
+.box1 button:hover{
+    color: white;
+    background-color: grey;
+}
+.box1 a{
+    background-color: #183571;
+    color: whitesmoke;
+    display: flex;
+    padding: 5px;
+    margin-top: 5px;
+    width: 235px;
+    margin-left: 73px;
+    border-radius: 10px;
+    text-decoration: none;
+    justify-content: center;
+}
+.box1 a:hover{
+    color: black;
+}
+.box1 p2{
+    color: white;
+    
+}
+.box1 p2:hover{
+    color: black;
+}
+.box1 p2 a2{
+    margin-left: 0px;
+    color: #5a89e7 ;
+}
+.box1 p2:hover{
+    color: black;
+}
+.image img{
+    height: 100%;
+    width: 906px;
+    
+}
